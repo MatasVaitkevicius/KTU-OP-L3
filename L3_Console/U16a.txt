@@ -1,0 +1,3 @@
+﻿1 Elektra 10
+2 Vanduo 20
+3 Siuksles 2,5
